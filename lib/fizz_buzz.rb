@@ -9,9 +9,3 @@ def fizz_buzz(n)
     p n.to_s
   end
 end
-fizz_buzz(1)
-fizz_buzz(3)
-fizz_buzz(4)
-fizz_buzz(5)
-fizz_buzz(6)
-fizz_buzz(15)
